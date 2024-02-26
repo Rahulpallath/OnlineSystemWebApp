@@ -12,9 +12,9 @@
 	 <script src="../js/verifytoken.js" type="text/javascript">  </script>
 	 <link rel="stylesheet" href="../styles/lesson4.css">
 <script type="text/javascript">
-$(function(){
+/* $(function(){
     verifytoken();
-});
+}) */;
 </script>
 
 <style>
